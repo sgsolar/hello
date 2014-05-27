@@ -43,3 +43,7 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+gem 'bundler'
+
+gem 'activeadmin', github: 'gregbell/active_admin'
+gem 'validates_formatting_of'
